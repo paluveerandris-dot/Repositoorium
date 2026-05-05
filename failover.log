@@ -1,0 +1,18 @@
+2026-05-04 19:43:41 - Failover check started.
+2026-05-04 19:43:41 - Primary VM state: Off
+2026-05-04 19:43:41 - Standby VM state: Off
+2026-05-04 19:43:41 - Primary is not reachable.
+2026-05-04 19:43:41 - Starting standby VM: Zabbix-Standby
+2026-05-04 19:43:41 - Standby is not reachable.
+2026-05-04 19:44:01 - Standby state after start: Running
+2026-05-04 19:44:01 - Attempting to create new standby VM from export.
+2026-05-04 19:44:01 - Importing new standby VM from export: E:\loputoo\export\Zabbix-Primary\Snapshots\864B5269-EFC4-4C44-8EF7-037FB0D423B0.vmcx
+2026-05-04 19:44:01 - Using VM path: E:\HyperV\VMs\Zabbix-Standby-New-20260504-194401
+2026-05-04 19:44:01 - Using VHD path: E:\HyperV\VHDs\Zabbix-Standby-New-20260504-194401
+2026-05-04 19:44:03 - Clearing DVD ISO path on 'Zabbix-Standby-New': C:\Users\paluv\Downloads\ubuntu-24.04.4-live-server-amd64.iso
+2026-05-04 19:44:03 - New standby VM created successfully: Zabbix-Standby-New
+2026-05-04 19:44:03 - Starting new standby VM: Zabbix-Standby-New
+2026-05-04 19:44:14 - New standby VM state after start: Running
+2026-05-04 19:44:17 - New standby VM heartbeat is reachable: Zabbix-Standby-New
+2026-05-04 19:44:17 - New standby is active. Stopping old standby VM: Zabbix-Standby
+2026-05-04 19:44:21 - Old standby VM stopped: Zabbix-Standby
