@@ -1,2 +1,2 @@
 # Repositoorium
-Siia repositooriumisse on koondatud eksamitöö tõendusmaterjalid: töö käigus tehtud pildid, Hyper-V ja Zabbixi failoveri PowerShelli skript ning rikkeolukordade logifailid.
+Siia repositooriumisse on koondatud eksamitöö tõendusmaterjalid: töö käigus tehtud pildid, PowerShelli failoveri skript ning rikkeolukordade logifailid.
